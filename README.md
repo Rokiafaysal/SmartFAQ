@@ -1,3 +1,6 @@
+
+![Alt text](FAQ Ginie Thumbnail with Mysterious AI Theme.png)
+
 # SmartFAQ 🤖
 
 An intelligent Frequently Asked Questions (FAQ) system that leverages advanced NLP techniques to automatically retrieve and answer user queries from a large corpus of product Q&A data.
